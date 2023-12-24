@@ -1,0 +1,17 @@
+body{ 
+  background:linear-gradient(#00FF00);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main{
+  list-style-image: url(img/forwardButton.png);
+  font-size:30px;
+}
+.winter{ 
+  list-style-image: url(img/snow/png);
+  font-size:35px;
+}
+.spring{
+  list-style-image: url(img/summer.png);
+}
+
+
